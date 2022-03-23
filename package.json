@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@trustcrypto/node-onlykey": "github:trustcrypto/node-onlykey#4796f8e7a243024c754a6c44457a1e4a04553987",
+    "@trustcrypto/node-onlykey": "github:bmatusiak/node-onlykey#4f94dee44ba315e9854993a0ff785866ab3f6604",
     "bip39": "^3.0.4"
   }
 }
